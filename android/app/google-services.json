@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "866818602130",
+    "project_id": "simplaapp",
+    "storage_bucket": "simplaapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866818602130:android:f3e4b0187d7117ae9a224b",
+        "android_client_info": {
+          "package_name": "com.example.solve"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "866818602130-jv9922h896gf1p1jqkqm4ks1r21uvrdn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.solve",
+            "certificate_hash": "0d604d754288187fbbf95eae499517e40677e477"
+          }
+        },
+        {
+          "client_id": "866818602130-ghkviqgj83rr73drh3hi7t672pi9rd1e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQg5eGbezvE8buI6rG7ZRepas7mbqAfG8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "866818602130-ghkviqgj83rr73drh3hi7t672pi9rd1e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
